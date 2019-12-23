@@ -1,0 +1,154 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+    background-image: url(https://image.freepik.com/free-photo/3d-render-of-spotlights-on-a-grunge-brick-wall_1048-6284.jpg);
+    background-position: 50% 51%; 
+}
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+} 
+
+
+.links a:link, a:visited {
+    background-color: #f85151;
+    color: rgb(250, 244, 244);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .links a:hover, a:active {
+    background-color: rgb(52, 9, 87);
+  }
+
+
+
+
+a:link, a:visited {
+    background-color: #726e6d;
+    color: rgb(250, 244, 244);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+a:hover, a:active {
+    background-color: rgb(52, 9, 87);
+}
+
+
+img{
+     border-radius: 15px;
+     
+}
+
+.title{
+
+    background-color: rgb(102, 202, 194);
+    color: rgb(52, 9, 87);
+    font-family: Palatino Linotype;
+    font-size: 25px;
+    font-weight: bold;
+    float: right;
+    width: 90%;
+    padding-right: 30px;
+    text-align: right; 
+    height: 160px;
+    border-radius: 12px;
+    background-image: linear-gradient( rgb(102, 202, 194), #726e6d);
+}
+
+
+
+.titleimage{
+        background-color: rgb(102, 202, 194);    
+        float: right;
+        width: 10%;
+        height: 160px;
+        border-radius: 12px;
+        background-image: linear-gradient( rgb(102, 202, 194), #726e6d);
+}
+
+.one{
+    margin-top: 100px;
+    float: right;
+    padding-left: 40px;   
+    padding-left: 30px;
+    width: 38%;
+}
+
+.two{
+    color: black;
+    margin-top: 100px;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    width: 22%;
+    background-image: linear-gradient( rgb(102, 202, 194), #726e6d);
+    text-align: center;
+    height: 420px;
+    border-radius: 15px;
+    margin-right: 7px;
+}
+
+.three{
+    margin-top: 100px;
+    float: right;
+    padding-left: 40px;
+    width: 38%;
+    font-family: fantasy;
+}
+
+
+#about{
+padding-top: 20px;
+padding-bottom: 30px;
+margin-top: 40px;
+font-family: fantasy;  
+color: rgb(7, 7, 7);
+font-size: 23px;
+background-color: rgb(102, 202, 194);
+margin-right: 170px;
+margin-left: 170px;
+border-radius: 10px;
+background-image: linear-gradient( rgb(102, 202, 194), #726e6d);
+}
+
+h2{
+    font-family: fantasy;  
+    color: rgb(7, 7, 7);
+    font-size: 30px;
+    padding-left: 40px;
+    text-align: center;
+    }
+    
+    p{
+        padding-right: 120px;
+        padding-left: 120px;
+    }
+
+#imp{
+    margin-top: 60px;
+    background-color: rgb(102, 202, 194);
+    margin-right: 170px;
+    margin-left: 170px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    background-image: linear-gradient( rgb(102, 202, 194), #726e6d);
+}
