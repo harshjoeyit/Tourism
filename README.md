@@ -1,5 +1,13 @@
-# Tourism-Website--webster-2018
+# Tourism
 
-Andaman and Nicobar Islands - tourism website
-Project members - Harshit gangwar
-Used technologies - HTML, CSS
+Tourism Website - Andaman and Nicobar Islands
+
+Team - Opaque Soul Virus
+
+Members - 
+
+Harshit Gangwar 
+Ankit Kriparam
+Sachin Sing
+
+Tech used - HTML, CSS
